@@ -1,4 +1,3 @@
-/home/cleydson/Documentos/sistemas/Sistemas/estudoPython/Semestre01/nivel3/1104_troca_cartas.py
 while True:
     quantidadeCartasAB = input()
     if(quantidadeCartasAB == '0 0'):
